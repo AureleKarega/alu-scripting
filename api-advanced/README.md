@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # API Advanced - Reddit API Project
 
 This project interacts with the Reddit API to retrieve and analyze data from subreddits.  
